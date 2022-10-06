@@ -1,0 +1,15 @@
+C:\Users\Alex\comp1000-fs\CMD.proj\bin\Debug\net6.0\CMD.proj.exe
+C:\Users\Alex\comp1000-fs\CMD.proj\bin\Debug\net6.0\CMD.proj.deps.json
+C:\Users\Alex\comp1000-fs\CMD.proj\bin\Debug\net6.0\CMD.proj.runtimeconfig.json
+C:\Users\Alex\comp1000-fs\CMD.proj\bin\Debug\net6.0\CMD.proj.dll
+C:\Users\Alex\comp1000-fs\CMD.proj\bin\Debug\net6.0\CMD.proj.pdb
+C:\Users\Alex\comp1000-fs\CMD.proj\obj\Debug\net6.0\CMD.proj.csproj.AssemblyReference.cache
+C:\Users\Alex\comp1000-fs\CMD.proj\obj\Debug\net6.0\CMD.proj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\comp1000-fs\CMD.proj\obj\Debug\net6.0\CMD.proj.AssemblyInfoInputs.cache
+C:\Users\Alex\comp1000-fs\CMD.proj\obj\Debug\net6.0\CMD.proj.AssemblyInfo.cs
+C:\Users\Alex\comp1000-fs\CMD.proj\obj\Debug\net6.0\CMD.proj.csproj.CoreCompileInputs.cache
+C:\Users\Alex\comp1000-fs\CMD.proj\obj\Debug\net6.0\CMD.proj.dll
+C:\Users\Alex\comp1000-fs\CMD.proj\obj\Debug\net6.0\refint\CMD.proj.dll
+C:\Users\Alex\comp1000-fs\CMD.proj\obj\Debug\net6.0\CMD.proj.pdb
+C:\Users\Alex\comp1000-fs\CMD.proj\obj\Debug\net6.0\CMD.proj.genruntimeconfig.cache
+C:\Users\Alex\comp1000-fs\CMD.proj\obj\Debug\net6.0\ref\CMD.proj.dll
